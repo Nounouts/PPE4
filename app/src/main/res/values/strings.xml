@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mygavolt</string>
+    <string-array name="etat_interventions">
+        <item>À venir</item>
+        <item>Terminée</item>
+        <item>Reportée</item>
+    </string-array>
+</resources>
